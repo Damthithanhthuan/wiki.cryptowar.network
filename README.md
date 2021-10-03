@@ -6,7 +6,7 @@ description: 'Đào tạo Anh Hùng, Luyện Vũ Khí, Đánh Quái Vật và Ki
 
 > This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
 
-#### A DEFI Game Platform and gaming experience On Binance Smart Chain
+#### Nền tảng trò chơi DEFI và trải nghiệm trò chơi trên Binance Smart Chain
 
 CryptoWar is a Play to Earn NFT RPG in which players participate in the process of acquiring legendary Blades and powerful Heroes to wield them through the marketplace. Being forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform, CryptoWar enables the players to be engaged in battles to earn xBlade tokens by using their assets minted in the ERC-271 standard to facilitate transactions on the proprietary marketplace
 
