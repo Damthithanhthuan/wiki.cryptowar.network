@@ -6,15 +6,14 @@ description: 'Đào tạo Anh Hùng, Luyện Vũ Khí, Đánh Quái Vật và Ki
 
 > This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
 
-#### A DEFI Game Platform and gaming experience On Binance Smart Chain
+#### Nền tảng trò chơi DEFI và trải nghiệm trò chơi trên Binance Smart Chain (Viết tắt là: BSC)
 
-CryptoWar is a Play to Earn NFT RPG in which players participate in the process of acquiring legendary Blades and powerful Heroes to wield them through the marketplace. Being forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform, CryptoWar enables the players to be engaged in battles to earn xBlade tokens by using their assets minted in the ERC-271 standard to facilitate transactions on the proprietary marketplace
+CryptoWar là một trò chơi nhập vai trên các nhân vật NFT mô phỏng, trong đó người chơi tham gia thu thập những thanh kiếm (Blades) huyền thoại và các siêu anh hùng để sử dụng chúng trên thị trường. Được phân nhánh và cải tiến bởi [https://XBN.finance](https://XBN.finance) trên nền tảng Binance Smart Chain, CryptoWar cho phép người chơi tham gia vào các trận chiến để kiếm được xBlade tokens bằng cách sử dụng tài sản của họ được đúc theo tiêu chuẩn ERC-271 để tạo thuận lợi cho các giao dịch trên thị trường độc quyền.
 
-With other DeFi products, CryptoWar will definitely be a dreamland for gamers and blockchain adopters.
-
-* NFT Yield Farming
-* NFT Marketplace
-* Gaming Metaverse
+Cùng với sản phẩm DeFi khác, CryptoWar thực sự sẽ là một vùng đất mơ ước cho các game thủ và các khách hàng thích blockchain.
+* Khai thác thanh khoản NFT
+* Thị trường NFT
+* Trò chơi Metaverse
 
 #### CryptoWar Marketplace
 
